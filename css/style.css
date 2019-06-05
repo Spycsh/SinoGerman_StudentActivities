@@ -13,8 +13,9 @@
 body {
      font-family: 'Lato', sans-serif;
      /* background: #f5f7f8; */
-     background: url(../img/bg.jpg)
-
+     background: url(../img/bg.jpg);
+     background-repeat: no-repeat;
+     background-attachment: fixed;
      /* cursor: url('../img/cursor.png'),auto; */
 }
 
@@ -28,7 +29,8 @@ a {
   white-space: nowrap;
   overflow: hidden;
   background: url(https://spycsh.github.io/image/favicon-long.png);
-  background-repeat: no-repeat;
+  
+  /* background-attachment: fixed; */
   width: 200px;
   height: 50px;
   background-size: 200px 50px;
