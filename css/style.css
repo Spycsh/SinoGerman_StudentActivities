@@ -24,7 +24,7 @@ a {
 
 .logo {
   /* left: 10px; */
-  text-indent: 101%;  hide the text but display the img
+  text-indent: 101%;  /*hide the text but display the img */
   white-space: nowrap;
   overflow: hidden;
   background: url(https://spycsh.github.io/image/favicon-long.png);
