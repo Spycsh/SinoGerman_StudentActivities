@@ -28,6 +28,7 @@ a {
   white-space: nowrap;
   overflow: hidden;
   background: url(https://spycsh.github.io/image/favicon-long.png);
+  background-repeat: no-repeat;
   width: 200px;
   height: 50px;
   background-size: 200px 50px;
